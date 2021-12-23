@@ -26,3 +26,6 @@ Running the server.py file will automatically instantiate all the server.
 ```bash
 python server.py
 ```
+##Result
+We run our experiment under ten different nodes in three different malicious settings. If *f* denotes the fraction of malicious adversaries then, *f=0.1, f=0.3, and f=0.5*.
+![alt text](https://github.com/cryptogeekk/Data_Poisoning_Attack-Federated-Learning-/blob/main/Data-Poisoning-Result.jpeg)
